@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**kejian-tong/kejian-tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an entry-level Software Engineer with a keen interest in backend development, distributed systems, and cloud technologies. I am continuously learning and improving my skills to build efficient and scalable applications.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently exploring AI and Machine Learning techniques to enhance backend system performance and scalability.
+- 🌱 I’m diving into data science fundamentals and deep learning frameworks to understand their applications in software engineering.
+- 👯 I’m looking to collaborate on open-source AI projects.
+- 🤔 I’m looking for help with optimizing neural network performance.
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, TypeScript/JavaScript, Python, Go
+**Frameworks & Tools:** Spring Boot, Node.js, React.js, Kafka, Redis, RabbitMQ, Docker, Kubernetes, Terraform  
+**Databases:** MySQL, Azure Cosmos DB, PostgreSQL, MongoDB, DynamoDB  
+**Cloud Platforms:** AWS, Google Cloud, Azure
+
+## 📈 GitHub Stats
+
+![Kejian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kejian-tong&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical)
+
+---
+
+🚀 **Always open to discussing new technologies and collaborating on innovative projects!**
