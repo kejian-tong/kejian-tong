@@ -36,6 +36,10 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kejian-tong&theme=radical)
 
+## 📊 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kejian-tong&theme=dracula)
+
 ---
 
 🚀 **Always open to discussing new technologies and collaborating on innovative projects!**
