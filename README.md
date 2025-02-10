@@ -11,7 +11,7 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, TypeScript/JavaScript, Python, Go 
+**Languages:** Java, TypeScript/JavaScript, Python, Go
 **Frameworks:** Spring Boot, Node.js, React.js, Kafka, Redis, RabbitMQ, Docker, Kubernetes, Terraform  
 **Databases:** MySQL, Azure Cosmos DB, PostgreSQL, MongoDB, DynamoDB  
 **Cloud Platforms:** AWS, Google Cloud, Azure
