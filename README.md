@@ -5,7 +5,7 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 ## 🚀 What I'm Working On
 
 - 🔭 I’m currently exploring AI and Machine Learning techniques to enhance backend system performance and scalability.
-- 🌱 I’m diving into data science fundamentals and deep learning frameworks to understand their applications in software engineering.
+- 🌱 I’m also exploring the fundamentals of deep learning frameworks to enhance my skills in building intelligent and efficient software systems.
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 🤔 I’m looking for help with optimizing neural network performance.
 
