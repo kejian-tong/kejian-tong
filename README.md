@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an entry-level Software Engineer with a keen interest in backend development, distributed systems, and cloud technologies. I am continuously learning and improving my skills to build efficient and scalable applications.
+I am an entry-level Software Engineer with a keen interest in backend development,full-stack, distributed systems, and cloud technologies. I am continuously learning and improving my skills to build efficient and scalable applications.
 
 ## 🚀 What I'm Working On
 
@@ -21,6 +21,8 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 ![Kejian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kejian-tong&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kejian-tong&theme=radical)
 
 ---
 
