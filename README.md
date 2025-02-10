@@ -42,6 +42,11 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 
 ![Snake animation](https://github.com/kejian-tong/kejian-tong/blob/output/github-contribution-grid-snake.svg)
 
+## 💼 Let's Connect!
+
+- ✉️ **Email:** [tongcs2021@gmail.com](mailto:tongcs2021@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tongoliver/](https://linkedin.com/in/tongoliver/)
+
 ---
 
 🚀 **Always open to discussing new technologies and collaborating on innovative projects!**
