@@ -40,6 +40,12 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kejian-tong&theme=dracula)
 
+## 📌 Pinned Projects
+
+[Check out my projects](https://github.com/kejian-tong?tab=repositories)
+
+![Snake animation](https://github.com/kejian-tong/kejian-tong/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 🚀 **Always open to discussing new technologies and collaborating on innovative projects!**
