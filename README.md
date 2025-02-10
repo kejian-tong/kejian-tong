@@ -42,6 +42,33 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 
 ![Snake animation](https://github.com/kejian-tong/kejian-tong/blob/output/github-contribution-grid-snake.svg)
 
+## 🌟 Fun Section
+
+### 🚀 About Me:
+
+- 🎿 I love hiking and skiing, exploring the great outdoors while staying active.
+- 📚 A huge fan of sci-fi novels and anything that challenges imagination!
+
+### 🎯 Goals for 2025:
+
+- 🏆 Contribute to 2+ open-source projects.
+- 🚀 Build my own SaaS side project.
+
+### 🧠 Random Developer Facts:
+
+- 🐍 I coded my first Python program to build a Connect 4 game.
+- 🖱️ I once accidentally broke production (but learned a lot from it 😅).
+
+---
+
+## 🎉 Dynamic Fun Widgets
+
+**Visitors Counter**:  
+![Visitor Count](https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen)
+
+**Coding Time Tracker**:  
+[![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@unique-wakatime-id)
+
 ## 💼 Let's Connect!
 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tongcs2021@gmail.com)
