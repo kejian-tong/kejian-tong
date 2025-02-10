@@ -44,7 +44,7 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 
 ## 💼 Let's Connect!
 
-- ✉️ **Email:** [tongcs2021@gmail.com](mailto:tongcs2021@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tongcs2021@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tongoliver)
 
 ---
