@@ -39,6 +39,7 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 ## 📊 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kejian-tong&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kejian-tong&theme=dracula&custom_title=GitHub%20Activity%20Graph&hide_border=true)
 
 ![Snake animation](https://github.com/kejian-tong/kejian-tong/blob/output/github-contribution-grid-snake.svg)
 
