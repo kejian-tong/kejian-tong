@@ -67,7 +67,7 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 ![Visitor Count](https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen)
 
 **Coding Time Tracker**:  
-[![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@waka_983c486e-c315-40db-b2d4-c4a6f88e6bbf)
+[![wakatime](https://wakatime.com/badge/user/waka_983c486e-c315-40db-b2d4-c4a6f88e6bbf.svg)](https://wakatime.com/@waka_983c486e-c315-40db-b2d4-c4a6f88e6bbf)
 
 ## 💼 Let's Connect!
 
