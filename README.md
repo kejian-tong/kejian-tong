@@ -102,8 +102,10 @@ AWS, Google Cloud, Azure
 
 <details>
   <summary>💡 More About Me</summary>
-  - 🎿 I love hiking and skiing, exploring the great outdoors while staying active.
-  - 📚 A huge fan of sci-fi novels and anything that challenges imagination!
+
+- 🎿 I love hiking and skiing, exploring the great outdoors while staying active.
+- 📚 A huge fan of sci-fi novels and anything that challenges imagination!
+
 </details>
 
 ---
