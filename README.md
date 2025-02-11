@@ -1,24 +1,35 @@
-## Hi there 👋
+## Hi there, I'm Kejian! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=false&vCenter=false&width=500&lines=Software+Engineer;Backend+Developer;Cloud+Enthusiast;Tech+Explorer;AI+Learner)](https://git.io/typing-svg)
 
 I am an entry-level Software Engineer with a keen interest in backend development, full-stack, distributed systems, and cloud technologies. I am continuously learning and improving my skills to build efficient and scalable applications.
 
+---
+
 ## 📚 Exploring in My Free Time
 
-- 🔭 I’m currently studying AI and Machine Learning techniques to enhance backend system performance and scalability.
+- 🔭 I’m currently studying AI and Machine Learning techniques part-time to enhance backend system performance and scalability.
 - 🌱 I’m also studying the fundamentals of Deep Learning frameworks to improve my ability to build intelligent and efficient software systems.
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 🤔 I’m gaining a foundational understanding of neural networks and their applications.
 
+---
+
 ## 🛠️ Tech Stack
 
-**Languages:** Java, TypeScript/JavaScript, Python, Go
-**Frameworks:** Spring Boot, Node.js, React.js, Kafka, Redis, RabbitMQ, Docker, Kubernetes, Terraform
-**Databases:** MySQL, Azure Cosmos DB, PostgreSQL, MongoDB, DynamoDB
-**Cloud Platforms:** AWS, Google Cloud, Azure
+**Languages:**  
+Java, TypeScript/JavaScript, Python, Go
 
-### **Tech Badges**
+**Frameworks:**  
+Spring Boot, Node.js, React.js, Kafka, Redis, RabbitMQ, Docker, Kubernetes, Terraform
+
+**Databases:**  
+MySQL, Azure Cosmos DB, PostgreSQL, MongoDB, DynamoDB
+
+**Cloud Platforms:**  
+AWS, Google Cloud, Azure
+
+### 🔹 **Tech Badges**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,46 +57,72 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+---
+
+## 📜 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kejian-tong&theme=radical&no-bg=true&no-frame=true&column=4)
+
+---
+
 ## 📈 GitHub Stats
 
-![Kejian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kejian-tong&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical)
-
+![Kejian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kejian-tong&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kejian-tong&theme=radical)
+
+---
 
 ## 📊 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kejian-tong&theme=dracula)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kejian-tong&theme=dracula&area=true&hide_border=true&bg_color=0D1117)  
 ![Snake animation](https://github.com/kejian-tong/kejian-tong/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌆 GitHub Skyline
+
+[![GitHub Skyline](https://skyline.github.com/kejian-tong/2023.png)](https://skyline.github.com/kejian-tong/)
+
+---
+
+## 🎧 Currently Listening To
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31gviwvd7hzl4g6b7waelaoi6j7m)
+
+---
+
+## 🟢 Am I Coding Right Now?
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77D0E&center=true&vCenter=true&width=435&lines=Yes%2C+I+am+coding+right+now!;Or+probably+debugging...;Or+maybe+just+Googling+error+messages!)](https://git.io/typing-svg)
+
+---
 
 ## 🌟 Fun Section
 
-### 🚀 About Me:
-
-- 🎿 I love hiking and skiing, exploring the great outdoors while staying active.
-- 📚 A huge fan of sci-fi novels and anything that challenges imagination!
-
-### 🎯 Goals for 2025:
-
-- 🏆 Contribute to 2+ open-source projects.
-- 🚀 Build my own SaaS side project.
-
-### 🧠 Random Developer Facts:
-
-- 🐍 I coded my first Python program to build a Connect 4 game.
-- 🖱️ I once accidentally broke production when I was an intern (but learned a lot from it 😅).
+<details>
+  <summary>💡 More About Me</summary>
+  - 🎿 I love hiking and skiing, exploring the great outdoors while staying active.  
+  - 📚 A huge fan of sci-fi novels and anything that challenges imagination!  
+</details>
 
 ---
 
 ## 🎉 Dynamic Fun Widgets
 
-**Visitors Counter**:  
+**Visitors Counter:**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen)
 
-**Coding Time Tracker**:  
+**Coding Time Tracker:**  
 [![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@unique-id)
+
+---
 
 ## 💼 Let's Connect!
 
