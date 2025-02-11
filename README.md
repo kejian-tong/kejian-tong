@@ -86,12 +86,6 @@ AWS, Google Cloud, Azure
 
 ---
 
-## 🌆 GitHub Skyline
-
-[![GitHub Skyline](https://skyline.github.com/kejian-tong/2023.png)](https://skyline.github.com/kejian-tong/)
-
----
-
 ## 🎧 Currently Listening To
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31gviwvd7hzl4g6b7waelaoi6j7m)
@@ -108,7 +102,7 @@ AWS, Google Cloud, Azure
 
 <details>
   <summary>💡 More About Me</summary>
-  - 🎿 I love hiking and skiing, exploring the great outdoors while staying active.  
+  - 🎿 I love hiking and skiing, exploring the great outdoors while staying active.
   - 📚 A huge fan of sci-fi novels and anything that challenges imagination!  
 </details>
 
