@@ -1,6 +1,6 @@
 ## Hi there, I'm Kejian! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=false&vCenter=false&width=500&lines=Software+Engineer;Backend+Developer;Cloud+Enthusiast;Tech+Explorer;AI+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=false&vCenter=false&width=500&lines=Software+Engineer;Full-Stack+Engineer;Tech+Explorer;AI+Learner)](https://git.io/typing-svg)
 
 I am an entry-level Software Engineer with a keen interest in backend development, full-stack, distributed systems, and cloud technologies. I am continuously learning and improving my skills to build efficient and scalable applications.
 
@@ -28,6 +28,12 @@ MySQL, Azure Cosmos DB, PostgreSQL, MongoDB, DynamoDB
 
 **Cloud Platforms:**  
 AWS, Google Cloud, Azure
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,typescript,python,go,spring,react,aws,docker,kubernetes,terraform,mysql,postgres,mongodb&theme=dark" />
+</p>
 
 ### 🔹 **Tech Badges**
 
