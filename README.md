@@ -65,6 +65,13 @@ AWS, Google Cloud, Azure
 
 ---
 
+### **⚡️ Dev Jokes Generator**
+
+Because coding should be fun!  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
 ## 🏆 GitHub Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kejian-tong&theme=radical&no-bg=true&no-frame=true&column=4)
@@ -114,10 +121,6 @@ AWS, Google Cloud, Azure
 
 **Visitors Counter:**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen)
-
-## ⏳ Coding Time Tracker
-
-[![WakaTime Stats](https://wakatime.com/share/@kejiantong/35a4e1f2-405d-4b84-b084-eb857462fbe3.svg)](https://wakatime.com/@kejiantong)
 
 ---
 
