@@ -115,8 +115,11 @@ AWS, Google Cloud, Azure
 **Visitors Counter:**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen)
 
-**Coding Time Tracker:**  
-[![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@kejiantong)
+## ⏳ Coding Time Tracker
+
+<figure>
+    <embed src="https://wakatime.com/share/@kejiantong/442dd9e7-7978-49f9-9898-f752807a98f5.svg">
+</figure>
 
 ---
 
