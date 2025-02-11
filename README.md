@@ -94,7 +94,7 @@ AWS, Google Cloud, Azure
 
 ## 🟢 Am I Coding Right Now?
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77D0E&center=true&vCenter=true&width=435&lines=Yes%2C+I+am+coding+right+now!;Or+probably+debugging...;Or+maybe+just+Googling+error+messages!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77D0E&center=true&vCenter=true&width=435&lines=Yes%2C+I+am+coding+right+now!;Or+probably+debugging...;Or+maybe+just+ChatGPTing+error+messages!)](https://git.io/typing-svg)
 
 ---
 
@@ -116,7 +116,7 @@ AWS, Google Cloud, Azure
 ![Visitor Count](https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen)
 
 **Coding Time Tracker:**  
-[![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@unique-id)
+[![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@kejiantong)
 
 ---
 
