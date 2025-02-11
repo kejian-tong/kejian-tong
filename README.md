@@ -117,7 +117,7 @@ AWS, Google Cloud, Azure
 
 ## ⏳ Coding Time Tracker
 
-[![WakaTime Stats](https://wakatime.com/share/@kejiantong/442dd9e7-7978-49f9-9898-f752807a98f5.svg)](https://wakatime.com/@kejiantong)
+[![WakaTime Stats](https://wakatime.com/share/@kejiantong/35a4e1f2-405d-4b84-b084-eb857462fbe3.svg)](https://wakatime.com/@kejiantong)
 
 ---
 
