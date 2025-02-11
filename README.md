@@ -32,7 +32,7 @@ AWS, Google Cloud, Azure
 ## 🚀 **Tech Badges**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,typescript,python,go,spring,react,aws,docker,kubernetes,terraform,node,kafka, redis,rabbitmq,azure,postgresql,dynamodb,mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,python,go,spring,react,aws,docker,kubernetes,terraform,kafka, redis,rabbitmq,azure,mysql,postgres,mongodb&theme=dark" />
 </p>
 
 ---
