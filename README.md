@@ -2,31 +2,47 @@
 
 I am an entry-level Software Engineer with a keen interest in backend development,full-stack, distributed systems, and cloud technologies. I am continuously learning and improving my skills to build efficient and scalable applications.
 
-## 🚀 What I'm Working On
+## 📚 Exploring in My Free Time
 
-- 🔭 I’m currently exploring AI and Machine Learning techniques to enhance backend system performance and scalability.
-- 🌱 I’m also exploring the fundamentals of Deep Learning frameworks to enhance my skills in building intelligent and efficient software systems.
+- 🔭 I’m currently studying AI and Machine Learning techniques to enhance backend system performance and scalability.
+- 🌱 I’m also studying the fundamentals of Deep Learning frameworks to improve my ability to build intelligent and efficient software systems.
 - 👯 I’m looking to collaborate on open-source AI projects.
-- 🤔 I’m looking for help with optimizing neural network performance.
+- 🤔 I’m gaining a foundational understanding of neural networks and their applications.
 
 ## 🛠️ Tech Stack
 
 **Languages:** Java, TypeScript/JavaScript, Python, Go
-**Frameworks:** Spring Boot, Node.js, React.js, Kafka, Redis, RabbitMQ, Docker, Kubernetes, Terraform  
-**Databases:** MySQL, Azure Cosmos DB, PostgreSQL, MongoDB, DynamoDB  
+**Frameworks:** Spring Boot, Node.js, React.js, Kafka, Redis, RabbitMQ, Docker, Kubernetes, Terraform
+**Databases:** MySQL, Azure Cosmos DB, PostgreSQL, MongoDB, DynamoDB
 **Cloud Platforms:** AWS, Google Cloud, Azure
 
-## 🛠️ Tech Stack
+### **Tech Badges**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -57,7 +73,7 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 ### 🧠 Random Developer Facts:
 
 - 🐍 I coded my first Python program to build a Connect 4 game.
-- 🖱️ I once accidentally broke production (but learned a lot from it 😅).
+- 🖱️ I once accidentally broke production when I was an intern (but learned a lot from it 😅).
 
 ---
 
@@ -67,7 +83,7 @@ I am an entry-level Software Engineer with a keen interest in backend developmen
 ![Visitor Count](https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen)
 
 **Coding Time Tracker**:  
-[![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@waka_983c486e-c315-40db-b2d4-c4a6f88e6bbf)
+[![wakatime](https://wakatime.com/badge/user/unique-wakatime-id.svg)](https://wakatime.com/@unique-id)
 
 ## 💼 Let's Connect!
 
