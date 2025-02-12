@@ -59,8 +59,11 @@ Because coding should be fun!
 ## 📈 GitHub Stats
 
 ![Kejian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kejian-tong&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kejian-tong&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical)
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kejian-tong&theme=radical) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kejian-tong&theme=radical)](https://git.io/streak-stats)
 
 ---
 
