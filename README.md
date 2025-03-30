@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **entry-level Software Engineer** passionate about backend development, full-stack applications, distributed systems, and cloud technologies. I'm constantly expanding my knowledge to build efficient and scalable solutions that make a difference.
+I'm an **Software Engineer** passionate about backend development, full-stack applications, distributed systems, and cloud technologies. I'm constantly expanding my knowledge to build efficient and scalable solutions that make a difference.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="400"/>
