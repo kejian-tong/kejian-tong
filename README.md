@@ -24,10 +24,11 @@ I'm a **Software Engineer** passionate about backend development, full-stack app
 
 ## 🌱 Current Focus
 
-- 🔭 Studying **AI and Machine Learning** techniques to enhance backend system performance
-- 🧠 Building a foundation in **Deep Learning** frameworks for intelligent software systems
-- 👯 Looking to collaborate on **open-source AI projects**
-- 🤔 Developing expertise in neural networks and their practical applications
+- 🚀 Learning how to use **AI tools** to speed up my side projects  
+- 🧑‍💻 Exploring **AI coding agents** to help with code search, debugging, and small tasks  
+- 🤖 Using **AI pair-programming** for quick prototyping and code improvement  
+- 📚 Step by step improving my coding skills and system building ability  
+
 
 ## 🛠️ Tech Stack
 
