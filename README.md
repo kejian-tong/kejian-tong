@@ -12,6 +12,10 @@
     <img src="https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen&style=for-the-badge" alt="Visitor Count">
   </p>
 
+  <p>
+    <a href="https://kejian-tong.github.io/"><img src="https://img.shields.io/badge/Homepage-Visit%20My%20Site-6CC24A?style=for-the-badge&logo=github&logoColor=white" alt="Homepage"></a>
+  </p>
+
 </div>
 
 ## 🧑‍💻 About Me
@@ -24,11 +28,10 @@ I'm a **Software Engineer** passionate about backend development, full-stack app
 
 ## 🌱 Current Focus
 
-- 🚀 Learning how to use **AI tools** to speed up my side projects  
-- 🧑‍💻 Exploring **AI coding agents** to help with code search, debugging, and small tasks  
-- 🤖 Using **AI pair-programming** for quick prototyping and code improvement  
-- 📚 Step by step improving my coding skills and system building ability  
-
+- 🚀 Learning how to use **AI tools** to speed up my side projects
+- 🧑‍💻 Exploring **AI coding agents** to help with code search, debugging, and small tasks
+- 🤖 Using **AI pair-programming** for quick prototyping and code improvement
+- 📚 Step by step improving my coding skills and system building ability
 
 ## 🛠️ Tech Stack
 
