@@ -1,10 +1,10 @@
 <!-- Trigger GitHub refresh -->
 
-# <div align="center">👋 Hello World, I'm Kejian! </div>
+# <div align="center">👋 Hello World, I'm Kejian Tong! </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Researcher;Full-Stack+Engineer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Researcher;)](https://git.io/typing-svg)
   
   <p>
     <a href="mailto:tongcs2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -20,8 +20,8 @@
 
 ## 🧑‍💻 About Me
 
-**Kejian Tong** is a **Software Engineer and AI Researcher** specializing in artificial intelligence, machine learning, deep learning, and natural language processing.  
-He holds a **Master of Science in Computer Science** from **Northeastern University** and focuses on intelligent systems, large-scale distributed architectures, and applied AI engineering.
+Kejian Tong is a software engineer and AI researcher specializing in artificial intelligence, machine learning, deep learning, and natural language processing.  
+He holds a Master of Science in Computer Science from Northeastern University and focuses on intelligent systems, large-scale distributed architectures, and applied AI engineering.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="400"/>
@@ -29,18 +29,18 @@ He holds a **Master of Science in Computer Science** from **Northeastern Univers
 
 ## 🌱 Current Focus
 
-- 🚀 Engineering intelligent systems and AI-driven platforms  
-- 🧠 Advancing research in machine learning, deep learning, and natural language processing  
-- ☁️ Architecting scalable distributed and cloud-native systems  
-- 🧩 Applying AI to real-world problems in automation, analytics, and decision support  
+- 🚀 Engineering intelligent systems and AI-driven platforms
+- 🧠 Advancing research in machine learning, deep learning, and natural language processing
+- ☁️ Architecting scalable distributed and cloud-native systems
+- 🧩 Applying AI to real-world problems in automation, analytics, and decision support
 
 ## 📄 Publications & Profiles
 
-- **Google Scholar**: https://scholar.google.com/citations?user=JUGvC_oAAAAJ&hl=en 
-- **ORCID**: https://orcid.org/0009-0002-5127-2711  
-- **ResearchGate**: https://www.researchgate.net/profile/Kejian-Tong  
-- **Personal Website**: https://kejian-tong.github.io/  
-- **LinkedIn**: https://www.linkedin.com/in/tongoliver/
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=JUGvC_oAAAAJ&hl=en)
+- 🆔 [ORCID](https://orcid.org/0009-0002-5127-2711)
+- 📚 [ResearchGate](https://www.researchgate.net/profile/Kejian-Tong)
+- 🌐 [Personal Website](https://kejian-tong.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tongoliver/)
 
 ## 🛠️ Tech Stack
 
