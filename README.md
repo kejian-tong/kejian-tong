@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Engineer;Tech+Explorer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Researcher;Full-Stack+Engineer;)](https://git.io/typing-svg)
   
   <p>
     <a href="mailto:tongcs2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -20,7 +20,8 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** passionate about backend development, full-stack applications, distributed systems, and cloud technologies. I'm constantly expanding my knowledge to build efficient and scalable solutions that make a difference.
+**Kejian Tong** is a **Software Engineer and AI Researcher** specializing in artificial intelligence, machine learning, deep learning, and natural language processing.  
+He holds a **Master of Science in Computer Science** from **Northeastern University** and focuses on intelligent systems, large-scale distributed architectures, and applied AI engineering.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="400"/>
@@ -28,10 +29,18 @@ I'm a **Software Engineer** passionate about backend development, full-stack app
 
 ## 🌱 Current Focus
 
-- 🚀 Learning how to use **AI tools** to speed up my side projects
-- 🧑‍💻 Exploring **AI coding agents** to help with code search, debugging, and small tasks
-- 🤖 Using **AI pair-programming** for quick prototyping and code improvement
-- 📚 Step by step improving my coding skills and system building ability
+- 🚀 Engineering intelligent systems and AI-driven platforms  
+- 🧠 Advancing research in machine learning, deep learning, and natural language processing  
+- ☁️ Architecting scalable distributed and cloud-native systems  
+- 🧩 Applying AI to real-world problems in automation, analytics, and decision support  
+
+## 📄 Publications & Profiles
+
+- **Google Scholar**: https://scholar.google.com/citations?user=JUGvC_oAAAAJ&hl=en 
+- **ORCID**: https://orcid.org/0009-0002-5127-2711  
+- **ResearchGate**: https://www.researchgate.net/profile/Kejian-Tong  
+- **Personal Website**: https://kejian-tong.github.io/  
+- **LinkedIn**: https://www.linkedin.com/in/tongoliver/
 
 ## 🛠️ Tech Stack
 
@@ -100,49 +109,10 @@ I'm a **Software Engineer** passionate about backend development, full-stack app
   <img src="https://github-profile-trophy.vercel.app/?username=kejian-tong&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kejian-tong&theme=dracula&area=true&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="800"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/kejian-tong/kejian-tong/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="800"/>
-</div>
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31gviwvd7hzl4g6b7waelaoi6j7m">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="500"/>
-  </a>
-</div>
-
-## 🟢 Coding Status
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77D0E&center=true&vCenter=true&width=435&lines=Yes%2C+I+am+coding+right+now!;Or+probably+debugging...;Or+maybe+just+ChatGPTing+error+messages!)](https://git.io/typing-svg)
-  
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-  
-</div>
-
-## 🌟 Beyond Coding
-
-<details>
-  <summary><b>Click to learn more about me!</b></summary>
-  <br>
-  <ul>
-    <li>🎿 I love hiking and skiing, exploring the great outdoors while staying active.</li>
-    <li>📚 A huge fan of sci-fi novels and anything that challenges imagination!</li>
-  </ul>
-</details>
-
 ---
 
 <div align="center">
   
-  ### 🚀 Always open to discussing new technologies and collaborating on innovative projects!
+### 🚀 Always open to discussing AI research, distributed systems, and innovative engineering projects.
   
 </div>
