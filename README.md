@@ -1,118 +1,96 @@
-<!-- Trigger GitHub refresh -->
+# Kejian Tong
 
-# <div align="center">👋 Hello World, I'm Kejian Tong! </div>
+Software Engineer and AI Researcher building agentic AI systems,
+applied LLM products, distributed platforms, and cloud-native
+infrastructure.
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Researcher;)](https://git.io/typing-svg)
-  
-  <p>
-    <a href="mailto:tongcs2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/tongoliver"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <img src="https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen&style=for-the-badge" alt="Visitor Count">
-  </p>
+[![Typing SVG][typing-svg]][typing-link]
 
-  <p>
-    <a href="https://kejian-tong.github.io/"><img src="https://img.shields.io/badge/Homepage-Visit%20My%20Site-6CC24A?style=for-the-badge&logo=github&logoColor=white" alt="Homepage"></a>
-  </p>
+[![Email][email-badge]][email-link]
+[![LinkedIn][linkedin-badge]][linkedin-link]
+[![Homepage][homepage-badge]][homepage-link]
+![Visitor Count][visitor-badge]
 
-</div>
+## About Me
 
-## 🧑‍💻 About Me
+I am a software engineer and AI researcher with an M.S. in Computer
+Science from Northeastern University. My work spans agentic AI,
+applied LLM systems, machine learning, deep learning, natural language
+processing, and large-scale distributed systems.
 
-Kejian Tong is a software engineer and AI researcher specializing in artificial intelligence, machine learning, deep learning, and natural language processing.  
-He holds a Master of Science in Computer Science from Northeastern University and focuses on intelligent systems, large-scale distributed architectures, and applied AI engineering.
+I focus on turning research ideas into production-ready systems that
+are reliable, scalable, and useful in real-world environments.
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="400"/>
-</div>
+## Current Focus
 
-## 🌱 Current Focus
+- Building agentic AI products and intelligent automation platforms
+- Designing LLM workflows with RAG, MCP, and prompt engineering
+- Applying machine learning, NLP, and OpenAI API integrations to
+  real-world workflows
+- Designing scalable distributed and cloud-native architectures
+- Bridging research depth with practical engineering execution
 
-- 🚀 Engineering intelligent systems and AI-driven platforms
-- 🧠 Advancing research in machine learning, deep learning, and natural language processing
-- ☁️ Architecting scalable distributed and cloud-native systems
-- 🧩 Applying AI to real-world problems in automation, analytics, and decision support
+## AI and LLM
 
-## 📄 Publications & Profiles
+![Agentic AI][agentic-ai-badge]
+![LLM Fine-tuning][llm-finetuning-badge]
+![RAG][rag-badge]
+![Prompt Engineering][prompt-engineering-badge]
+![MCP][mcp-badge]
+![LangChain][langchain-badge]
+![OpenAI API][openai-api-badge]
+![NLP][nlp-badge]
 
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=JUGvC_oAAAAJ&hl=en)
-- 🆔 [ORCID](https://orcid.org/0009-0002-5127-2711)
-- 📚 [ResearchGate](https://www.researchgate.net/profile/Kejian-Tong)
-- 🌐 [Personal Website](https://kejian-tong.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tongoliver/)
+## Research and Profiles
 
-## 🛠️ Tech Stack
+- [Google Scholar][scholar-link]
+- [ORCID][orcid-link]
+- [ResearchGate][researchgate-link]
+- [Personal Website][homepage-link]
+- [LinkedIn][linkedin-link]
 
-<div align="center">
-  <h3>Languages & Tools I Work With</h3>
-  <img src="https://skillicons.dev/icons?i=java,typescript,python,go,react,aws,docker,kubernetes,kafka,redis,azure,mysql,linux,postgres,mongodb&theme=dark" />
-</div>
+## Tech Stack
 
-<details>
-  <summary><h3>💻 Languages</h3></summary>
-  <ul>
-    <li>Java</li>
-    <li>TypeScript/JavaScript</li>
-    <li>Python</li>
-    <li>Go</li>
-  </ul>
-</details>
+- Languages: Java, TypeScript/JavaScript, Python, Go
+- AI and LLM: Agentic AI, LLM Fine-tuning, RAG, Prompt Engineering,
+  MCP, LangChain, OpenAI API, NLP
+- Frameworks: Spring Boot, Node.js, React
+- Data and Messaging: Kafka, Redis, RabbitMQ
+- Infrastructure: Docker, Kubernetes, Terraform
+- Cloud: AWS, Google Cloud, Azure
+- Databases: MySQL, PostgreSQL, MongoDB, DynamoDB, Azure Cosmos DB
 
-<details>
-  <summary><h3>🔧 Frameworks & Technologies</h3></summary>
-  <ul>
-    <li>Spring Boot</li>
-    <li>Node.js</li>
-    <li>React.js</li>
-    <li>Kafka</li>
-    <li>Redis</li>
-    <li>RabbitMQ</li>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-    <li>Terraform</li>
-  </ul>
-</details>
+## GitHub Activity
 
-<details>
-  <summary><h3>🗄️ Databases</h3></summary>
-  <ul>
-    <li>MySQL</li>
-    <li>Azure Cosmos DB</li>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>DynamoDB</li>
-  </ul>
-</details>
+![GitHub Stats][github-stats]
+![Top Languages][top-langs]
+![Contribution Snake][contribution-snake]
 
-<details>
-  <summary><h3>☁️ Cloud Platforms</h3></summary>
-  <ul>
-    <li>AWS</li>
-    <li>Google Cloud</li>
-    <li>Azure</li>
-  </ul>
-</details>
+## Collaboration
 
-## 📊 GitHub Stats
+I am open to discussions around AI research, distributed systems, and
+engineering collaborations.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kejian-tong&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kejian-tong&theme=radical" alt="GitHub Streak" width="700"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kejian-tong&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  
-### 🚀 Always open to discussing AI research, distributed systems, and innovative engineering projects.
-  
-</div>
+[typing-svg]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77D0E&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Researcher;
+[typing-link]: https://github.com/DenverCoder1/readme-typing-svg
+[agentic-ai-badge]: https://img.shields.io/badge/Agentic%20AI-43386B?style=for-the-badge
+[llm-finetuning-badge]: https://img.shields.io/badge/LLM%20Fine--tuning-43386B?style=for-the-badge
+[rag-badge]: https://img.shields.io/badge/RAG-43386B?style=for-the-badge
+[prompt-engineering-badge]: https://img.shields.io/badge/Prompt%20Engineering-43386B?style=for-the-badge
+[mcp-badge]: https://img.shields.io/badge/MCP-43386B?style=for-the-badge
+[langchain-badge]: https://img.shields.io/badge/LangChain-43386B?style=for-the-badge
+[openai-api-badge]: https://img.shields.io/badge/OpenAI%20API-43386B?style=for-the-badge
+[nlp-badge]: https://img.shields.io/badge/NLP-43386B?style=for-the-badge
+[email-badge]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email-link]: mailto:tongcs2021@gmail.com
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-link]: https://www.linkedin.com/in/tongoliver/
+[homepage-badge]: https://img.shields.io/badge/Homepage-Visit%20My%20Site-6CC24A?style=for-the-badge&logo=github&logoColor=white
+[homepage-link]: https://kejian-tong.github.io/
+[visitor-badge]: https://komarev.com/ghpvc/?username=kejian-tong&color=brightgreen&style=for-the-badge
+[scholar-link]: https://scholar.google.com/citations?user=JUGvC_oAAAAJ&hl=en
+[orcid-link]: https://orcid.org/0009-0002-5127-2711
+[researchgate-link]: https://www.researchgate.net/profile/Kejian-Tong
+[github-stats]: https://github-readme-stats.vercel.app/api?username=kejian-tong&show_icons=true&theme=radical
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=kejian-tong&layout=compact&theme=radical
+[contribution-snake]: https://raw.githubusercontent.com/kejian-tong/kejian-tong/output/github-contribution-grid-snake.svg
